@@ -17,7 +17,8 @@ This NodeJS program allows users to quickly generate a professional README markd
 ## Instructions
 ### Installation
 Use this command line to clone this repo before running the program:
-  `git clone git@github.com:c1008h/Professional-README-Generator.git`
+
+>`git clone git@github.com:c1008h/Professional-README-Generator.git`
 
 Open the repo in VSC then open the terminal to that file. Once in the terminal, run `npm init`. Once initualize is finished, run `npm i`. This should install all packages and dependencies that are needed for this app.
 ### Usage
