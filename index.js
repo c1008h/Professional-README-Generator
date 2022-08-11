@@ -1,6 +1,8 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown')
+
 //const { title } = require('process');
 
 
@@ -57,26 +59,7 @@ const promptUser = () => {
 };
 
 // TODO: Create a function to write README file
-const generateREADME = ({ title, location, installation, usage, contribution, instructions, license, github, email }) =>
-`
-#${title}
-<br>
-##${location}
-<br>
-##${installation}
-<br>
-##${usage}
-<br>
-##${contribution}
-<br>
-##${instructions}
-<br>
-###${license}
-<br>
-###${github}
-<br>
-###${email}
-`;
+const generateREADME = (answers) => { return generateMarkdown(answers) }
 
 // TODO: Create a function to initialize app
 const init = () => {
@@ -88,3 +71,5 @@ const init = () => {
 
 // Function call to initialize app
 init();
+
+
