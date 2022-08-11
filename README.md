@@ -26,14 +26,12 @@ Type `node index.js` into the terminal to run this app. Once the app has started
 ## Contribution
 Feel free to fork my repo and use it as your README generator. 
 
-
-
 ## License
 
 ## Badges
 
 ## Reach Out
 Feel free to reach out if you have any questions.
-  Github: c1008h
-  Email: hongchristinaaa@gmail.com
+> Github: <a href='https://github.com/c1008h'>c1008h</a>
+> Email: <a href='mailto:hongchristinaaa@gmail.com'>hongchristinaaa@gmail.com</a>
 
