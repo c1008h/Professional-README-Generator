@@ -33,5 +33,6 @@ Feel free to fork my repo and use it as your README generator.
 ## Reach Out
 Feel free to reach out if you have any questions.
 > Github: <a href='https://github.com/c1008h'>c1008h</a>
+> <br>
 > Email: <a href='mailto:hongchristinaaa@gmail.com'>hongchristinaaa@gmail.com</a>
 
