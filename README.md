@@ -15,6 +15,11 @@ This NodeJS program allows users to quickly generate a professional README markd
 - [Contact](#contact)
 
 ## Instructions
+
+
+https://user-images.githubusercontent.com/102135325/184087952-de675f89-6b7c-4d1f-b333-d4f657fa6279.mp4
+
+
 ### Installation
 Use this command line to clone this repo before running the program:
 
