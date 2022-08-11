@@ -254,6 +254,7 @@ The GNU General Public License does not permit incorporating your program into p
 
 ## Badges
 ![Project License Badge](https://img.shields.io/badge/license-GNU-brightgreen) ![Project Package Badge](https://img.shields.io/badge/package-Inquirer-informational) 
+  <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contact
