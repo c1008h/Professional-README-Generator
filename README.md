@@ -3,9 +3,9 @@
 ## Description
 This NodeJS program allows users to quickly generate a professional README markdown file based on the user's input.
 ### Created with:
-- JavaScript
-- Node JS
-- Inquirer
+- <a href='https://javascript.info/'>JavaScript</a>
+- <a href='https://nodejs.org/en/'>Node JS</a>
+- <a href='https://www.npmjs.com/package/inquirer'>Inquirer</a>
 
 
 ## Table of Contents (Optional)
