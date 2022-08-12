@@ -34,4 +34,4 @@ Feel free to reach out if you have any questions.
 
 Github: <a href='https://github.com/ + c1008h'>c1008h</a>
 
-Email: <a href='mailto:hongchristinaaa@gmail.com'>hongchristinaaa@gmail.com</a>
+Email: <a href='mailto:hongchris97@gmail.com'>hongchris97@gmail.com</a>
