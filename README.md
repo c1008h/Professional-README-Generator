@@ -268,5 +268,5 @@ The GNU General Public License does not permit incorporating your program into p
 Feel free to reach out if you have any questions.
 > Github: <a href='https://github.com/c1008h'>c1008h</a>
 > <br>
-> Email: <a href='mailto:hongchristinaaa@gmail.com'>hongchristinaaa@gmail.com</a>
+> Email: <a href='mailto:hongchris97@gmail.com'>hongchris97@gmail.com</a>
 
