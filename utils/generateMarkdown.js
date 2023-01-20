@@ -34,8 +34,7 @@ function renderLicenseSection(license) {
   if(license) {
     return `
 ## License
-![Project License Badge]
-(${renderLicenseBadge(license)})
+${renderLicenseBadge(license)}
 
 ${renderLicenseLink(license)}
   `
@@ -73,3 +72,4 @@ ${data.email}
 }
 
 module.exports = generateMarkdown;
+
