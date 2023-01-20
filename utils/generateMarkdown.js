@@ -2,13 +2,13 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if(license === 'MIT') {
-    return "https://img.shields.io/badge/license-MIT-brightgreen"
+    return `<img src='https://img.shields.io/badge/license-MIT-brightgreen' alt='badge' />`
   }
   if(license === 'Apache') {
-    return "https://img.shields.io/badge/license-Apache-brightgreen"
+    return `<img src='https://img.shields.io/badge/license-Apache-brightgreen' alt='badge' />`
   }
   if(license === 'GNU') {
-    return "https://img.shields.io/badge/license-GNU-brightgreen"
+    return `<img src='https://img.shields.io/badge/license-GNU-brightgreen' alt='badge' />`
   }
   return '' 
 }
