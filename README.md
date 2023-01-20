@@ -1,4 +1,4 @@
-# Professional-README-Generator
+# README.md Generator
 
 ## Description
 This NodeJS program allows users to quickly generate a professional README markdown file based on the user's input.
